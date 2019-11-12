@@ -4,7 +4,7 @@
 
 ```bash
 sudo apt-get install dosfstools dump parted kpartx -y
-sudo ./dump.sh  rasppi.img /dev/sdb
+sudo ./dump.sh  rasppi /dev/sdb
 ```
 
 
